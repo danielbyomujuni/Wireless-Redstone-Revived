@@ -1,0 +1,7 @@
+
+{
+    "variants": {
+        "recived=false": { "model": "wirelessredstone:block/wirelessreciver" },
+        "recived=true": { "model": "wirelessredstone:block/wirelessreciver_on" }
+    }
+}

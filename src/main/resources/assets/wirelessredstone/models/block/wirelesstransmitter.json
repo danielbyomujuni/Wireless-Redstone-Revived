@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "wirelessredstone:block/bottomoff",
+        "up": "wirelessredstone:block/topoff",
+        "north": "wirelessredstone:block/txoff",
+        "east": "wirelessredstone:block/txoff",
+        "south": "wirelessredstone:block/txoff",
+        "west": "wirelessredstone:block/txoff"
+    }
+}
